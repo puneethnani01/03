@@ -1,4 +1,5 @@
 driver.find_element('xpath',"//tagname[@attr_name="attr_value"]
 driver.find_element('xpath',"//tagname[text()="text"]
 hi and hello welocme to cisco
+good morning
 
